@@ -16,5 +16,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.6
       with:
         server: ftpupload.net
-        username: joao2027.rf.gd
-        password: 101220002026 
+        username: if0_41226564
+        password: 101220002026
