@@ -15,6 +15,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.6
       with:
-        server: ftpupload.net host
+        server: ftpupload.net
         username: joao2027.rf.gd
         password: 101220002026 
